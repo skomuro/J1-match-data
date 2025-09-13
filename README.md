@@ -12,7 +12,7 @@
 
 - `(teamname)_match_stats.csv`  
   チームごとの試合データを格納  
-  - `teamname` は teamname は Football LAB の チームコード（URLスラッグ） に従います。  
+  - `teamname` はFootball LAB の チームコード（URLスラッグ） に従います。  
     - 例: `y-fm_match_stats.csv`
 
 
